@@ -23,3 +23,6 @@ Just like you install any other Machine Learning library, you can easily install
   ``` pip install pycaret```
   
   Once you're done with installation you are all set to do all types of machine learning operations using any of the dataset of your choice and implement machine learning models
+  
+For More detailed information and tutorials must visit the official Pycaret page
+https://pycaret.org/
